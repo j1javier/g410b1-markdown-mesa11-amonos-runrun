@@ -1,4 +1,4 @@
-![pene.png](pene.png)!
+![pene.png](pene.png)
 ## Métodos
 Un gran número de tecnologías en competencia están disponibles para la impresión 3D sus principales diferencias se encuentran en la forma en la que las diferentes capas son usadas para crear piezas. Algunos métodos usan fundido o ablandando el material para producir las capas, por ejemplo  [sinterizado de láser selectivo](https://es.wikipedia.org/w/index.php?title=Sinterizado_de_l%C3%A1ser_selectivo&action=edit&redlink=1 "Sinterizado de láser selectivo (aún no redactado)")  (SLS) y  [modelado por deposición fundida](https://es.wikipedia.org/wiki/Modelado_por_deposici%C3%B3n_fundida "Modelado por deposición fundida")  (FDM), mientras que otros depositan materiales líquidos que son solidificados con diferentes tecnologías. En el caso de  [manufactura de objetos laminados](https://es.wikipedia.org/w/index.php?title=Manufactura_de_objetos_laminados&action=edit&redlink=1 "Manufactura de objetos laminados (aún no redactado)"), se cortan capas delgadas para ser moldeadas y unidas juntas.
 
