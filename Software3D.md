@@ -1,4 +1,4 @@
-# A Antonio Vargas le gusta lamer falos
+
 # Software de Impresiones 3D
 ### A continuación presentaré una serie de programas de software para impresiones 3D c:
 **1) TinkerCAD**
